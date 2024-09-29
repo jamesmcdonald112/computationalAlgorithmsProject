@@ -2,7 +2,7 @@
 
 This project demonstrates and benchmarks several sorting algorithms. It includes both a comprehensive Java implementation and a detailed report discussing time complexity, space complexity, and benchmarking results.
 
-## Grade received: 88%
+## Final Grade: 88%
 
 ## Project Overview
 - Sorting Algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Counting Sort.
